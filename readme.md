@@ -3,7 +3,7 @@
 ## it doesnt work anymore ##
 
 
-## HOW TO USE:## 
+## HOW TO USE:
 
 1. Download or git clone the folder anywhere
 
